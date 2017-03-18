@@ -1,0 +1,25 @@
+{
+  "name": "nodejs-unit-test",
+  "version": "1.0.0",
+  "description": "玩转Node.js单元测试",
+  "main": "example01.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fundebug/nodejs-unit-test.git"
+  },
+  "author": "Fundebug",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fundebug/nodejs-unit-test/issues"
+  },
+  "homepage": "https://github.com/Fundebug/nodejs-unit-test#readme",
+  "dependencies": {
+    "should": "^11.2.1"
+  }
+}
