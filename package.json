@@ -19,7 +19,8 @@
     "url": "https://github.com/Fundebug/nodejs-unit-test/issues"
   },
   "homepage": "https://github.com/Fundebug/nodejs-unit-test#readme",
-  "dependencies": {
+  "devDependencies": {
+    "mocha": "^3.2.0",
     "should": "^11.2.1"
   }
 }
